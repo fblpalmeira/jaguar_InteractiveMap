@@ -6,7 +6,7 @@ Jaguar Interactive Map: Creating an interactive map for users to explore and lea
 
 - [Database `.csv`](https://github.com/fblpalmeira/movevis/blob/main/data/jaguar_pantanal_saobento_2008.txt)
 
-<img src="https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/RPubs%20-%20Jaguar%20Interative%20Map_%20Paraguay.mp4">
+<img src="https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/RPubs%20-%20Jaguar%20Interative%20Map_%20Paraguay.gif">
 
 References: 
 
