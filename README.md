@@ -11,5 +11,7 @@ Jaguar Interactive Map: Creating an interactive map for users to explore and lea
 
 References: 
 
-[Morato, R. G. et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
+Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library.](https://CRAN.R-project.org/package=leaflet) R package version 2.1.1. 
+
+Morato, R. G. et al. 2018. [Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics.](http://doi.org/10.1002/ecy.2379) Ecology.
 
