@@ -11,7 +11,7 @@ Jaguar Interactive Map: Creating an interactive map for users to explore and lea
 
 RPubs Page: https://rpubs.com/fblpalmeira/Jaguar_Paraguay
 
-See also Jaguar in Brazilian Pantanal. https://rpubs.com/fblpalmeira/Jaguar_BrazilianPantanal
+See also Jaguar in Brazilian Pantanal: https://rpubs.com/fblpalmeira/Jaguar_BrazilianPantanal
 
 References: 
 
