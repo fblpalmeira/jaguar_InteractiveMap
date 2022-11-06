@@ -9,6 +9,8 @@ Jaguar Interactive Map: Creating an interactive map for users to explore and lea
 
 <img src="https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/RPubs%20-%20Jaguar%20Interative%20Map_%20Paraguay.gif">
 
+RPubs Page: https://rpubs.com/fblpalmeira/Jaguar_Paraguay
+
 References: 
 
 Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library.](https://CRAN.R-project.org/package=leaflet) R package version 2.1.1. 
