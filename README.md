@@ -1,8 +1,12 @@
 ## #30DayMapChallenge - Day 1: Points 
 
-Jaguar Interactive Map: Creating an interactive map for users to explore and learn more about the ecology and conservation of jaguars in Paraguay from a GPS-based movement dataset.
+Jaguar Interactive Map: Creating an interactive map for users to explore and learn more about the ecology and conservation of jaguars in Paraguay from a GPS-based movement dataset.[(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
 
+- [Script `.R`](https://github.com/fblpalmeira/movevis/blob/main/data/jaguar_pantanal_saobento_2008.R)
 
+- [Database `.csv`](https://github.com/fblpalmeira/movevis/blob/main/data/jaguar_pantanal_saobento_2008.txt)
+
+<img src="https://github.com/fblpalmeira/movevis/blob/main/data/jaguar_pantanal_saobento2.gif">
 
 References: 
 
